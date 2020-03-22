@@ -9,6 +9,7 @@
 #maven ignore
 target/
 build/
+*.jar
 
 #eclipse ignore
 .settings/
@@ -21,3 +22,5 @@ build/
 *.ipr
 *.iml
 *.iws
+
+.gradle/*
